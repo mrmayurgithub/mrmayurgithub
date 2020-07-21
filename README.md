@@ -7,7 +7,7 @@
 - 💬 Ask me about Flutter, Firebase, C++, Data Structures and Algorithms.
 - 📫 How to reach me: 
   Email - mr.mayurrrr@gmail.com
-  LinkedIn - linkedin.com/in/mayurrrr-agarwal
+  LinkedIn - www.linkedin.com/in/mayurrrr-agarwal
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an electrical engineer who is learning software development :sunglasses::stuck_out_tongue:
 
