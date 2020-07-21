@@ -1,4 +1,4 @@
-### Hi there 👋
+### <span style="color:blue"> Hi there  👋
 
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>
 
