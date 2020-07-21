@@ -12,4 +12,3 @@
 - Fun fact: I am an **Electrical Engineer** who is learning **Software Development** :sunglasses::stuck_out_tongue:
 - Languages: **English**, **Hindi**, and a little bit of **German**/ **Deutsche** :sunglasses:
 
-
