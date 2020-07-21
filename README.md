@@ -14,5 +14,6 @@
   <br/>
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I am an electrical engineer who is learning software development :sunglasses::stuck_out_tongue:
+- Languages: English, Hindi, and a little bit of German :sunglasses:
 
 
