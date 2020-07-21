@@ -7,8 +7,7 @@
 - 👯 I’m looking to collaborate on any Flutter Project.
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about Flutter, Firebase, C++, Data Structures and Algorithms.
-- 📫 How to reach me: 
-<br/>
+- 📫 How to reach me: <br/>
   Email - mr.mayurrrr@gmail.com
   <br/>
   LinkedIn - www.linkedin.com/in/mayurrrr-agarwal
