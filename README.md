@@ -5,7 +5,6 @@
 - I’m currently working on some **Flutter** Projects.
 - I’m currently learning **Flutter**, **Data Structures and Algorithms**.
 - I’m looking to collaborate on any new **Flutter** Project.
-- I’m looking for help with ...
 - Ask me about **Flutter**, **Firebase**, **C++**, **Data Structures and Algorithms**.
 - How to reach me: **mr.mayurrrr@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)** 
 - Pronouns: he/him/his
