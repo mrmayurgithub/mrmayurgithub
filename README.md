@@ -1,5 +1,5 @@
 ### <span style="color:blue"> **Hi there** </span> 👋
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>
 
 - I’m currently working on some **Flutter** Projects.
