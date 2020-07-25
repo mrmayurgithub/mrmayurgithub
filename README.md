@@ -9,7 +9,7 @@
 - Ask me about **Flutter**, **Firebase**, **C++**, **Data Structures and Algorithms**.
 - How to reach me: **mr.mayurrrr@gmail.com** or **[LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)** 
 - Pronouns: he/him/his
-- Fun fact: I am an **Electrical Engineer** who is learning **Software Development** :sunglasses::stuck_out_tongue:
+- Fun fact: I am an **Electrical Engineer** who is learning **App Development** :stuck_out_tongue:
 - Languages: **English**, **Hindi**, and a little bit of **German**/ **Deutsche** :sunglasses:
 
 <a href="https://github.com/mrmayurgithub">
