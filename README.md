@@ -2,7 +2,9 @@
 <!---
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>-->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
-
+<a href="https://github.com/mrmayurgithub">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmayurgithub&hide_langs_below=1" />
+</a>
 - I’m currently working on some **Flutter** Projects.
 - I’m currently learning **Flutter**, **Data Structures and Algorithms**.
 - I’m looking to collaborate on any new **Flutter** Project.
@@ -12,9 +14,7 @@
 - Languages: **English**, **Hindi**, and a little bit of **Deutsche** :sunglasses:
 <!--- Fun fact: I am an **Electrical Engineer** who is learning **App Development** :stuck_out_tongue:-->
 
-<a href="https://github.com/mrmayurgithub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmayurgithub&hide_langs_below=1" />
-</a>
+
 <a href="https://github.com/mrmayurgithub">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mrmayurgithub&show_icons=true&<!---theme=radical&-->line_height=27" alt="Mayur's github stats"/>
 </a>
