@@ -14,7 +14,8 @@
 
 ### I’m currently working on some **Flutter** Projects.
 ### 📖 What i am currently learning
-- **Flutter**
+- Flutter
+- Firebase
 - Data Structures 
 - Algorithms
 - Bitwise Algorithms
