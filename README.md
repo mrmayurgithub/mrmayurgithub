@@ -19,13 +19,10 @@
 - Algorithms
 - Bitwise Algorithms
 ### I’m looking to collaborate on any new **Flutter** Project.
-### Programming Languages
-- C++
+### Ask me about - 
+- C++ 
 - C
 - Dart
-- Python
-### Ask me about - 
-- C++ -
 - Flutter
 - Firebase 
 - Data Structures 
