@@ -19,6 +19,11 @@
 - Algorithms
 - Bitwise Algorithms
 ### I’m looking to collaborate on any new **Flutter** Project.
+### Programming Languages
+- C++
+- C
+- Dart
+- Python
 ### Ask me about - 
 - C++ -
 - Flutter
