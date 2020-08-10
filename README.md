@@ -6,7 +6,9 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
 ![](https://img.shields.io/github/followers/mrmayurgithub?label=Follow&style=plastic)
+<!---
 ![](https://img.shields.io/badge/OS-Linux-black)
+-->
 <!---
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>-->
 
