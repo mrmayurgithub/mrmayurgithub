@@ -1,4 +1,5 @@
-### <span style="color:blue"> **Hi there** </span> 👋
+<!---### <span style="color:blue"> **Hi there** </span> 👋-->
+<h2 align="center">Hello there! 👋🤓</h2>
 <a href="https://www.linkedin.com/in/mayurrrr-agarwal/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -7,13 +8,25 @@
 <!---
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>-->
 
-- I’m currently working on some **Flutter** Projects.
-- I’m currently learning **Flutter**, **Data Structures and Algorithms**.
-- I’m looking to collaborate on any new **Flutter** Project.
-- Ask me about **Flutter**, **Firebase**, **C++**, **Data Structures and Algorithms**.
-- How to reach me: **mr.mayurrrr@gmail.com**<!--- or   <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" height = "20" width = "20"/> Instagram: [may.yur6212](https://www.instagram.com/ma.yur6212) -->  <!---**[LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)** -->
-- Pronouns: he/him/his
-- Languages: **English**, **Hindi**, and a little bit of **Deutsche** :sunglasses:
+###I’m currently working on some **Flutter** Projects.
+### 📖 What i am currently learning
+- **Flutter**
+- Data Structures 
+- Algorithms
+- Bitwise Algorithms
+### I’m looking to collaborate on any new **Flutter** Project.
+### Ask me about - 
+- Flutter
+- Firebase 
+- C++ -
+- Data Structures 
+- Algorithms
+### How to reach me: mr.mayurrrr@gmail.com
+### Pronouns: he/him/his
+### Languages:
+- English 
+- Hindi 
+- A little bit of **Deutsche** :sunglasses:
 <!--- Fun fact: I am an **Electrical Engineer** who is learning **App Development** :stuck_out_tongue:-->
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
