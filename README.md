@@ -6,6 +6,10 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
 ![](https://img.shields.io/github/followers/mrmayurgithub?label=Follow&style=plastic)
+
+<a href="https://github.com/mrmayurgithub">
+ <img align="right" src="https://github-readme-stats.vercel.app/api?username=mrmayurgithub&show_icons=true&theme=radical&line_height=27" alt="Mayur's github stats"/>
+</a>
 <!---
 ![](https://img.shields.io/badge/OS-Linux-black)
 -->
@@ -13,6 +17,9 @@
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>-->
 
 ### I’m currently working on some **Flutter** Projects.
+<a href="https://github.com/mrmayurgithub">
+  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmayurgithub&hide_langs_below=1&theme=radical"/>
+</a>
 ### 📖 What i am currently learning
 - Flutter
 - Firebase
@@ -20,6 +27,7 @@
 - Algorithms
 - Bitwise Algorithms
 ### I’m looking to collaborate on any new **Flutter** Project.
+
 ### Ask me about - 
 - C++ 
 - C
@@ -44,9 +52,4 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
 -
-<a href="https://github.com/mrmayurgithub">
- <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrmayurgithub&show_icons=true&theme=radical&line_height=27" alt="Mayur's github stats"/>
-</a>
-<a href="https://github.com/mrmayurgithub">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmayurgithub&hide_langs_below=1&theme=radical"/>
-</a>
+
