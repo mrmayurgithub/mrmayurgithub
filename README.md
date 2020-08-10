@@ -5,7 +5,7 @@
 </a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
-![Follow](/github/followers/:mrmayurgithub?label=Follow)
+![](https://img.shields.io/github/followers/mrmayurgithub?label=Follow&style=plastic)
 <!---
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>-->
 
