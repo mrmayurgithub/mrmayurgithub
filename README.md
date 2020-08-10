@@ -2,10 +2,10 @@
 <a href="https://www.linkedin.com/in/mayurrrr-agarwal/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-</a>
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
 <!---
 <img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>-->
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
 
 - I’m currently working on some **Flutter** Projects.
 - I’m currently learning **Flutter**, **Data Structures and Algorithms**.
