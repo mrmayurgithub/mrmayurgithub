@@ -1,5 +1,5 @@
 <!---### <span style="color:blue"> **Hi there** </span> 👋-->
-<h2 align="center">Hello there! 👋🤓</h2>
+<h2 align="center">Hello there! I am Mayur 👋🤓</h2>
 <a href="https://www.linkedin.com/in/mayurrrr-agarwal/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,8 +9,7 @@
 <!---
 ![](https://img.shields.io/badge/OS-Linux-black)
 -->
-<!---
-<img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>-->
+<img src='https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif' width='250'  align='right'>
 ### I’m currently working on some **Flutter** Projects.
 
 ### 📖 What i am currently learning
