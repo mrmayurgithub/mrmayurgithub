@@ -14,6 +14,7 @@
 
 ### 📖 What i am currently learning
 - Flutter
+- Quantum Computing
 - Firebase
 - Data Structures 
 - Algorithms
