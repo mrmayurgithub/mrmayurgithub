@@ -8,7 +8,7 @@
 ![](https://img.shields.io/github/followers/mrmayurgithub?label=Follow&style=plastic)
 <!---
 ![](https://img.shields.io/badge/OS-Linux-black)
---> <img align="right" alt="GIF" src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" />
+-->
 
 ### I’m currently working on some **Flutter** Projects.
 
