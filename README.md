@@ -14,11 +14,10 @@
 
 ### 📖 What i am currently learning
 - Flutter
-- Quantum Computing
 - Firebase
 - Data Structures 
 - Algorithms
-- Bitwise Algorithms
+
 ### I’m looking to collaborate on any new **Flutter** Project.
 
 ### Ask me about - 
