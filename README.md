@@ -3,6 +3,9 @@
 <a href="https://www.linkedin.com/in/mayurrrr-agarwal/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+<a href="https://mrmayurrrr.medium.com/">
+  <img align="left" alt="Mayur's Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+</a>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
 ![](https://img.shields.io/github/followers/mrmayurgithub?label=Follow&style=plastic)
