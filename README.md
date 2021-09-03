@@ -13,25 +13,6 @@
 ![](https://img.shields.io/badge/OS-Linux-black)
 -->
 
-### I’m currently working on some **Flutter** Projects.
-
-### 📖 What i am currently learning
-- Flutter
-- Firebase
-- Data Structures 
-- Algorithms
-
-### I’m looking to collaborate on any new **Flutter** Project.
-
-### Ask me about - 
-- C++ 
-- C
-- Dart
-- Flutter
-- Firebase 
-- Data Structures 
-- Algorithms
-
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.png"></code>
@@ -44,7 +25,13 @@
 <code><img height="25" src="https://avatars3.githubusercontent.com/u/4604537?s=200&v=4"></code>
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/600px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png"></code>
 
-### How to reach me: mr.mayurrrr@gmail.com
+
+### 📖 What i am currently learning
+- SQL
+- Data Structures 
+- Algorithms
+
+### How to reach me: [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
 ### Pronouns: he/him/his
 ### Languages:
 - English 
