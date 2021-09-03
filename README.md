@@ -31,7 +31,7 @@
 - Data Structures 
 - Algorithms
 
-### Reach Me on [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
+### Reach me on [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
 
 <a href="https://github.com/mrmayurgithub">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrmayurgithub&show_icons=true&theme=radical&line_height=27" alt="Mayur's github stats"/>
