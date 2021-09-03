@@ -27,6 +27,7 @@
 
 
 ### 📖 What i am currently learning
+- Flutter & Firebase
 - SQL
 - Data Structures 
 - Algorithms
