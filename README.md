@@ -31,13 +31,7 @@
 - Data Structures 
 - Algorithms
 
-### How to reach me: [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
-### Pronouns: he/him/his
-### Languages:
-- English 
-- Hindi 
-- A little bit of **Deutsche** :sunglasses:
-<!--- Fun fact: I am an **Electrical Engineer** who is learning **App Development** :stuck_out_tongue:-->
+### Reach Me on [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
 
 <a href="https://github.com/mrmayurgithub">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrmayurgithub&show_icons=true&theme=radical&line_height=27" alt="Mayur's github stats"/>
