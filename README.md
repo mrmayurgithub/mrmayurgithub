@@ -33,7 +33,7 @@
 - Algorithms
 
 ### Reach me on [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
-### My [Portfolio](https://mayuragarwal.me/)
+### Here's my [Portfolio](https://mayuragarwal.me/)
 
 <a href="https://github.com/mrmayurgithub">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrmayurgithub&show_icons=true&theme=radical&line_height=27" alt="Mayur's github stats"/>
