@@ -1,5 +1,3 @@
-<!---### <span style="color:blue"> **Hi there** </span> 👋-->
-<h2 align="center">Hello there! I am Mayur 👋🤓</h2>
 <a href="https://www.linkedin.com/in/mayurrrr-agarwal/">
   <img align="left" alt="LinkdeIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
@@ -9,9 +7,14 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=mrmayurgithub.mrmayurgithub)
 ![](https://img.shields.io/github/followers/mrmayurgithub?label=Follow&style=plastic)
-<!---
-![](https://img.shields.io/badge/OS-Linux-black)
--->
+
+<h2 align="center">Hi there! I am Mayur 👋🤓</h2>
+
+## About me:
+- I am a pre-final year Electrical Engineering student at NIT Agartala.
+- I've also worked as an SDE Intern at Dhravya Technologies where we utilized Flutter for the frontend and Firebase as a backend service. Links - [Certificate](https://drive.google.com/file/d/1BKpe4egiQfyMNbh2DrFoIrA3wp2Il3Ex/view), [Nearst](https://play.google.com/store/apps/details?id=com.nearst&hl=en&gl=US), [Nearst Manager](https://play.google.com/store/apps/details?id=com.nearst.manager).
+
+## Skills:
 
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/cpp/cpp.png"></code>
 <code><img height="25" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flutter/flutter.png"></code>
@@ -26,14 +29,17 @@
 <code><img height="25" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg/600px-Windows_logo_%E2%80%93_2012_%28dark_blue%29.svg.png"></code>
 
 
-### 📖 What i am currently learning
-- Flutter & Firebase
-- SQL
-- Data Structures 
-- Algorithms
+### 📖 I am currently learning:
+- DBMS
+- Golang
+- Design Patterns
 
-### Reach me on [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
-### Here's my [Portfolio](https://mayuragarwal.me/)
+<!---
+![](https://img.shields.io/badge/OS-Linux-black)
+-->
+
+### Read my latest articles on [Medium](https://mrmayurrrr.medium.com/)
+### Reach out to me on [LinkedIn](https://www.linkedin.com/in/mayurrrr-agarwal/)
 
 <a href="https://github.com/mrmayurgithub">
  <img align="left" src="https://github-readme-stats.vercel.app/api?username=mrmayurgithub&show_icons=true&theme=radical&line_height=27" alt="Mayur's github stats"/>
@@ -41,3 +47,4 @@
 <a href="https://github.com/mrmayurgithub">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mrmayurgithub&hide_langs_below=1&theme=radical"/>
 </a>
+
