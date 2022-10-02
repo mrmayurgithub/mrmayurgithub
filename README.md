@@ -11,7 +11,7 @@
 <h2 align="center">Hi there! I am Mayur 👋🤓</h2>
 
 ## About me:
-- I am a pre-final year Electrical Engineering student at NIT Agartala.
+- I am a final year Electrical Engineering student at NIT Agartala.
 - I've also worked as an SDE Intern at Dhravya Technologies where we utilized Flutter for the frontend and Firebase as a backend service. Links - [Certificate](https://drive.google.com/file/d/1BKpe4egiQfyMNbh2DrFoIrA3wp2Il3Ex/view), [Nearst](https://play.google.com/store/apps/details?id=com.nearst&hl=en&gl=US), [Nearst Manager](https://play.google.com/store/apps/details?id=com.nearst.manager).
 
 ## Skills:
